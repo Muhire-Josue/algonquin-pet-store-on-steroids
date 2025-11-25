@@ -18,5 +18,5 @@ After applying the updated file, I validated that all services communicated corr
 
 ---
 
-**File used:** `aps-all-in-one-Task1.yaml` & `aps-all-in-one-Task2.yaml`  
+**File used:** `aps-all-in-one.yaml` & `aps-all-in-one-Task2.yaml`  
 (The full file is included in the repo)
